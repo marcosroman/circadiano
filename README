@@ -1,0 +1,1 @@
+Codigo basado en ~/phd/hopfonwattsstrogatz/code; en este caso lo que se hace es extender para que imprima, ademas de r_ms (radio del centroide), los valores de r_k (parametro de orden de kuramoto) y r_ravg (radio promedio) (y, por el momento, tambien de r_r**2avg)

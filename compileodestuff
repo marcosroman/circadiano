@@ -1,0 +1,2 @@
+rm *.so
+python setupodestuff.py build_ext --inplace
